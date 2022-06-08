@@ -1,0 +1,7 @@
+code: 'ZAPALARI',
+        productName: 'LA RiNCONADA   ',
+        companyName: 'PANGOLINE',
+        thickness: 255,
+        madeIn: 'TURKEY',
+        price: 175,
+        areaInPackage: '0.8 m2 , 2 ML  , JOiNT SPACiNG 2

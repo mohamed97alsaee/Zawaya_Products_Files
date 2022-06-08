@@ -1,0 +1,7 @@
+code: 'ZAPAMAKO',
+        productName: 'MAYA KODiAQ   ',
+        companyName: 'PANGOLINE',
+        thickness: 2535,
+        madeIn: 'TURKEY',
+        price: 175,
+        areaInPackage: '1 m2 , 1.5 ML  , JOiNT SPACiNG 0

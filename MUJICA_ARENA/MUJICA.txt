@@ -1,0 +1,7 @@
+code: 'ZAPAMUAR',
+        productName: 'MUJiCA ARENA   ',
+        companyName: 'PANGOLINE',
+        thickness: 3545,
+        madeIn: 'TURKEY',
+        price: 160,
+        areaInPackage: '0.9 m2 , 1.88 ML  , JOiNT SPACiNG 0

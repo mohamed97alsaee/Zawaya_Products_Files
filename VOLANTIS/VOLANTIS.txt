@@ -1,0 +1,7 @@
+code: 'ZAPAVOCO',
+        productName: 'VOLANTIS COGNAC    ',
+        companyName: 'PANGOLINE',
+        thickness: 3555,
+        madeIn: 'TURKEY',
+        price: 165,
+        areaInPackage: '0.7 m2 , 1.55 ML  , JOiNT SPACiNG 0

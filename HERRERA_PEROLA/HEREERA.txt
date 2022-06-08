@@ -1,0 +1,7 @@
+code: 'ZAPAHEPE',
+        productName: 'HEREERA PEROLA  ',
+        companyName: 'PANGOLINE',
+        thickness: 235,
+        madeIn: 'TURKEY',
+        price: 175,
+        areaInPackage: '1 m2 , 2 ML  , JOiNT SPACiNG 2

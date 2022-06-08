@@ -1,0 +1,8 @@
+
+code: 'ZAPAJASA',
+        productName: 'JAVA SABBiA   ',
+        companyName: 'PANGOLINE',
+        thickness: 1518,
+        madeIn: 'TURKEY',
+        price: 125,
+        areaInPackage: '1 m2 , 2 ML  , JOiNT SPACiNG 1.5

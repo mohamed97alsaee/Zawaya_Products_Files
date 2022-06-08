@@ -1,0 +1,7 @@
+code: 'ZAPAROPE',
+        productName: 'ROLADS PEROLS    ',
+        companyName: 'PANGOLINE',
+        thickness: 1525,
+        madeIn: 'TURKEY',
+        price: 150,
+        areaInPackage: '1.2 m2 , 2.4 ML  , JOiNT SPACiNG 0

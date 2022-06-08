@@ -1,0 +1,7 @@
+ code: 'ZAPAGLUC',
+        productName: 'UCELLO  ',
+        companyName: 'PANGOLINE',
+        thickness: 1520,
+        madeIn: 'TURKEY',
+        price: 135,
+        areaInPackage: '1 m2 , 2 ML  , JOiNT SPACiNG 1.5

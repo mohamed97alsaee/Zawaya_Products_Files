@@ -1,0 +1,7 @@
+code: 'ZAPAKABI',
+        productName: 'KALAHARi BiANCO   ',
+        companyName: 'PANGOLINE',
+        thickness: 1215,
+        madeIn: 'TURKEY',
+        price: 100,
+        areaInPackage: '1 m2 , 2 ML  , JOiNT SPACiNG 1
